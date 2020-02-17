@@ -22,6 +22,7 @@ define([], function(){
             window.console.log('document.write is actually convenient');
             window.console.log('or just write in document.body.innerHTML');
             window.console.log('TDR-11');
+            window.console.log('v2.1.4');
 
             window.addEventListener('error', function(err){
                 window.console.error(err);
